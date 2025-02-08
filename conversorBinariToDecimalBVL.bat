@@ -1,7 +1,7 @@
 @echo off
 REM Entrega voluntari 2, ASO.
-REM Alumne: Bartolomé Vich Lozano
-REM Email: tolo@tovilo.es
+REM Alumne: BartolomÃ© Vich Lozano
+REM Email: web@tovilo.es
 title Conversor Binari a Decimal
 :inicio
 cls
